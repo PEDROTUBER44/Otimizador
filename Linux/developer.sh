@@ -1,0 +1,1 @@
+#sudo apt install pyqt4-dev-tools pyqt5-dev-tools qt4-designer -y ;
