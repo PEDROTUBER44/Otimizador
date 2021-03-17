@@ -119,7 +119,7 @@ class Ui_Dialog(object):
         Dialog.setWindowTitle(_translate("Dialog", "Otimizador"))
         self.pushButton.setText(_translate("Dialog", "OK"))
         self.label.setText(_translate("Dialog", "<html><head/><body><p><span style=\" font-size:18pt; font-weight:600;\">OTIMIZADOR</span><span style=\" font-size:18pt;\"> DE COMPUTADOR </span></p></body></html>"))
-        self.label_2.setText(_translate("Dialog", "PARA <strong>LINUX</strong>"))
+        self.label_2.setText(_translate("Dialog", "PARA <strong>WINDOWS</strong>"))
         self.label_3.setText(_translate("Dialog", "<html><head/><body><p><span style=\" font-size:7pt;\">COPYRIGHT </span><span style=\" font-size:7pt; font-weight:600;\">PEDRO ROSENDO</span></p></body></html>"))
 
 

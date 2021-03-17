@@ -172,7 +172,7 @@ QProgressBar::chunk{
        <string notr="true">color: rgb(98, 114, 164);</string>
       </property>
       <property name="text">
-       <string>PARA &lt;strong&gt;LINUX&lt;/strong&gt;</string>
+       <string>PARA &lt;strong&gt;WINDOWS&lt;/strong&gt;</string>
       </property>
       <property name="alignment">
        <set>Qt::AlignCenter</set>
